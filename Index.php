@@ -10,15 +10,15 @@
 <body>
     <div>
         <h3>Cadastrar Cliente</h3>
-        <a href="Cliente/listar.php">Novo cliente</a>
+        <a href="cliente/listar.php">Novo cliente</a>
     </div>
     <div>
          <h3>Cadastrar Produto</h3>
-		 <a href="Produto/listar.php">Novo produto</a>
+		 <a href="produto/listar.php">Novo produto</a>
     </div>
     <div>
         <h3>Registra Pedido</h3>
-		<a href="Pedido/listar.php">Novo Pedido</a>
+		<a href="pedido/listar.php">Novo Pedido</a>
     </div>
     <script src=""></script>
 </body>
