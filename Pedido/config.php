@@ -16,7 +16,7 @@ define('ROOT', $_SERVER['DOCUMENT_ROOT']);
 
 /** caminho absoluto para a pasta do sistema **/
 if ( !defined('ABSPATH') )
-	define('ABSPATH', ROOT.'/Teste_Trampo');
+	define('ABSPATH', ROOT.'');
 	
 /** caminho no server para o sistema **/
 if ( !defined('BASEURL') )
