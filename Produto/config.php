@@ -20,7 +20,7 @@ if ( !defined('ABSPATH') )
 	
 /** caminho no server para o sistema **/
 if ( !defined('BASEURL') )
-	define('BASEURL', 'http://127.0.0.1:8080/produto');
+	define('BASEURL', 'http://127.0.0.1/produto');
 	
 /** caminho do arquivo de banco de dados **/
 if ( !defined('DBAPI') )
